@@ -1,3 +1,4 @@
+<img src="BannerProyect.jpeg" style="width:100%;">
 <h1>Proyecto Final Inteligencia 2019-1</h1>
 
 <h2>Análisis de llamadas a la línea 123 en Bogotá. Predicción de prioridades y prevención de falsas alarmas.</h2>
